@@ -5,3 +5,7 @@ def hours():
 def min():
 	'Returns Minutes'
 	return 'about 10 minutes'
+
+def max():
+	'Returns maximum'
+	return 'maximum'
